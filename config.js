@@ -1,0 +1,1 @@
+const OPENAI_API_KEY = "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";  // Замените на свой ключ
